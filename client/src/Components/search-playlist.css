@@ -1,0 +1,32 @@
+.search-playlist{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.search-playlist-button{
+    margin: 10px;
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: #1ED761;
+    border: 0px solid;
+    border-radius: 20px;
+    color: white;
+}
+
+.search-playlist-map{
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.search-playlist-map button{
+    margin: 2px;
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: transparent;
+    border: 0px solid;
+    border-radius: 20px;
+    color: white;
+}

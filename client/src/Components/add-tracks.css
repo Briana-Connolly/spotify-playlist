@@ -1,0 +1,65 @@
+.add-tracks{
+    font-size: 30px;
+    text-align: center;
+    margin: 50px;
+}
+
+.add-tracks-item{
+    margin: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.add-tracks-item:hover{
+    margin: 20px;
+    color: #1ED761;
+    text-decoration: none;
+}
+
+.add-tracks-description{
+    font-size: 30px;
+    margin: 50px;
+}
+
+.top-artists{
+    margin-top: 20px;
+}
+
+.top-artists-map{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.top-artists-map-item{
+    margin: 10px;
+}
+
+.top-artists-map-item button{
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: #1ED761;
+    border: 0px solid;
+    border-radius: 20px;
+    color: white;
+}
+
+.top-tracks-map{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.top-tracks-map-item{
+    margin: 2px 20px;
+    font-size: 20px;
+}
+
+.top-tracks-map button{
+    font-size: 15px;
+    padding: 10px 20px;
+    background-color: #1ED761;
+    border: 0px solid;
+    border-radius: 20px;
+    color: white;
+}

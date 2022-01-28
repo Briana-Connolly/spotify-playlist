@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600&display=swap');
+
+
+body{
+  font-family: 'Raleway', sans-serif;
+  background-color: #212121;
+  color: white;
+  margin-left: 250px; /* Same as the width of the sidenav */
+  padding: 10px;
+}
+
+.track-map{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.track-map-item{
+  margin: 2px 20px;
+  font-size: 20px;
+}
+
+.track-map-item button{
+  font-size: 15px;
+  padding: 10px 20px;
+  background-color: #1ED761;
+  border: 0px solid;
+  border-radius: 20px;
+  color: white;
+}
+
+.track-map-item .remove-button button{
+  background-color: red;
+}
+
+/* button{
+  font-size: 15px;
+  margin: 20px;
+  padding: 10px 20px;
+  background-color: #1ED761;
+  border: 2px solid #1ED761;
+  border-radius: 20px;
+  color: white;
+} */
